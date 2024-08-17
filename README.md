@@ -34,7 +34,7 @@ This is a public chat room developed in **React**, **TypeScript**, **Chakra UI**
 
 4. **Run the app**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 Your realtime chat app should now be running locally!
